@@ -1,3 +1,5 @@
+// Code your testbench here
+// or browse Examples
 module tb_SOP;
   reg a,b,c;
   wire y;

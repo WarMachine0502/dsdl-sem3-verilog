@@ -1,3 +1,4 @@
+// Code your design here
 module SOP(a,b,c,y );
   input a,b,c;
   output y;
